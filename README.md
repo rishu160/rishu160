@@ -11,11 +11,18 @@
 
 ## 🚀 About Me
 
-I'm a **self-driven Computer Science student and Full Stack Developer** passionate about building real-world, scalable web applications.  
-I enjoy working on **backend APIs, databases, and interactive frontends**, and continuously improving my skills through projects, internships, and competitive programming.
+🎓 Computer Science Student  
+💻 Web Developer | Java | JavaScript  
+🚀 Passionate about building real-world projects
 
 🎓 **Amity University Chhattisgarh, Raipur**  
 📊 CGPA: **8.86 (2023 – 2026)**
+
+### 📌 Featured Projects
+- **Resume Analyzer System** - AI-powered resume analysis tool
+- **Online Exam Proctoring System** - Secure online examination platform
+- **AI Powered Voice Assistant** - Voice-controlled intelligent assistant
+- **E-Commerce Website** - Full-featured online shopping platform
 
 ---
 
@@ -73,26 +80,7 @@ I enjoy working on **backend APIs, databases, and interactive frontends**, and c
 
 ---
 
-## 📌 Projects
 
-### 🔸 Rajasthan Educational Portal (Vercel)
-- Developed a **Remote Classroom Platform** for rural diploma colleges  
-- Optimized for **low-bandwidth environments** and offline access  
-- Added quizzes, polls, and discussion boards for better engagement  
-
----
-
-### 🔸 Internship Portal
-- Built a platform for **resume-based internship matching**  
-- Integrated **Cloudinary** for resume storage  
-- Implemented **Firebase Authentication** for secure access  
-
----
-
-### 🔸 Food Ordering System (Vercel)
-- Developed a responsive food ordering website  
-- Implemented cart functionality and interactive UI  
-- Tech Stack: **HTML, CSS, Bootstrap, Tailwind CSS**
 
 ---
 
